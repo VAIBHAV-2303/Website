@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="myman.css">
+	<meta charset="UTF-8">
+	<title>
+		Vaibhav Garg
+		</title>
+</head>
+<body> 
+	<p class="bounceIn Large">
+		<b>
+			Hey there!
+		</b>
+	</p>
+	<br>
+	<p class="fadeIn Large" align="center">
+		I'm Vaibhav and welcome to my world.
+	</p>
+	<img src="blue.jpeg" width="100%" height="400px;" alt="blue background">
+	<div class="slideshow" align="center" style="position: relative; bottom: 390px;">
+		<div class="simages fade">
+			<img src="CHd.jpg" width="" height="340px" alt="CHD">
+			<div class="caption">
+				<b>
+					Chandigarh
+				</b>
+			</div>
+		</div>
+                <div class="simages fade">
+                        <img src="" width="" height="340px" alt="">
+                        <div class="caption">
+                                <b>
+                                        
+                                </b>
+                        </div>
+                </div>
+                <div class="simages fade">
+                        <img src="" width="" height="340px" alt="">
+                        <div class="caption">
+                                <b>
+                                        
+                                </b>
+                        </div>
+                </div>
+                <div class="simages fade">
+                        <img src="" width="" height="340px" alt="">
+                        <div class="caption">
+                                <b>
+                                        
+                                </b>
+                        </div>
+                </div>
+                <div class="simages fade">
+                        <img src="" width="" height="340px" alt="">
+                        <div class="caption">
+                                <b>
+                                        
+                                </b>
+                        </div>
+                </div>
+		<div class="simages fade">
+			<img src="IMG-20141203-WA0014.jpg" width="35%" height="340px" alt="axmun">
+			<div class="caption">
+				<b>
+					Axmun
+				</b>
+				</div>
+			</div>
+			<div class="simages fade">
+				<img src="IMG_4024.JPG" width="40%" height="340px" alt="pyconf">
+				<div class="caption">
+					<b>
+					Pyconf
+					</b>
+				</div>
+			</div>
+			<div class="simages fade">
+				<img src="FB_IMG_1460352662988.jpg" width="20%" height="340px" alt="hostel">
+				<div class="caption">
+					<b>
+					Hostel
+					</b>
+				</div>
+			</div>
+			<div class="simages fade">
+				<img src="IMG_20170912_201332806.jpg" width="30%" height="340px" alt="fresher's">
+				<div class="caption">
+					<b>
+					Fresher's
+					</b>
+				</div>
+			</div>
+			<div class="simages fade">
+				<img src="IMG-20141202-WA0022.jpg" width="25%" height="340px" alt="ghy">
+				<div class="caption">
+					<b>
+					I miss Guwahati
+					</b>
+			</div>
+		</div>
+	</div>
+	<p align="center" style="font-size: 30px;"><b>Running a race no one can truly win.</b></p>
+        <a href="Hobbies.html" class="myButton">Hobbies</a>
+        <a href="Education.html" class="myButton">Education</a>
+        <a href="Goals.html" class="myButton">Bucket List</a>
+
+	<hr>
+	<a href="#Top" class="right">
+		<img src="up.jpg" width="3%" style="position: fixed; right: 0; bottom: 0;" alt="arrow">
+	</a>
+	<p align="center" class="Small">
+		<b>
+			Contact me
+		</b>
+	</p>
+	<a href="https://www.facebook.com/profile.php?id=100002571767803" style="padding: 80px;">
+		<img src="fb logo.png" align="center" width="3%" data-scroll="toggle(.bounce, .pulse)" alt="fb">
+	</a>
+	<a href="https://plus.google.com/101253042796027215461" style="padding: 80px; position: relative; bottom: -23px; right: -880px;">
+		<img src="google-logo.png" width="3%" data-scroll="toggle(.bounce, .pulse)" alt="g+">
+	</a>
+	
+	<a href="https://github.com/VAIBHAV-2303" style="padding: 80px; position: relative; bottom: -23px; right: -100px;">
+		<img src="git.png" width="3.5%" data-scroll="toggle(.bounce, .pulse)" alt="git">
+	</a>
+	<p align="center">
+		9915921857 | gargvaibav@gmail.com
+	<a href="https://www.google.co.in/maps/place/Bakul+Nivas/@17.4475046,78.3472288,17z/data=!4m5!3m4!1s0x3bcb93a3694c1093:0xda3e609fd9666245!8m2!3d17.4480215!4d78.3483768">
+	<img src="http://is2.mzstatic.com/image/thumb/Purple128/v4/16/75/63/167563c2-cc97-60e3-23ef-ad1a1d8986fb/source/1200x630bb.jpg" width="3%" alt="gm"></img>
+</a>
+	</p>
+</body>
+<script src="ScrollTrigger.min.js"></script>
+<script src="javascr.js"></script>
+</html>
